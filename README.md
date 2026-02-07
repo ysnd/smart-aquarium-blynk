@@ -15,3 +15,9 @@ This project is an IoT based smart Aquarium using blynk to control and send noti
 - Heater
 - 2 Channel relays
 - Motor Servo
+
+## Wiring Diagram
+![Wiring](images/wiring.jpg)
+
+## Screenshot blynk
+![SSTelegramBot](images/ss.jpg)
